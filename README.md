@@ -26,7 +26,7 @@ To use the program, run the command
 
 	python generate.py <INPUT_FILE> [OUTPUT_FILE]
 
-NOTE: If you have multiple `python` versions on your computer, you might need to replace `python` with `python3` in the commands.
+NOTE: If you have multiple `python` versions on your computer, you might need to replace `python` with `python3`, and `pip` with `pip3`, in the commands.
 
 Where `INPUT_FILE` is the path (relative or absolute) to the source textfile, and `OUTPUT_FILE` is an optional argument detailing the desired path where the output JSON tree will be saved. 
 
